@@ -6,6 +6,10 @@ Version: 1.0.0
 Manufacturer: Ten Square Software  
 Formats: AU VST3 Standalone
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-Ten%20Square%20Software-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/tensquaresoftware)
+
+> 💛 If you find this project useful, consider [sponsoring its development](https://github.com/sponsors/tensquaresoftware) — every contribution helps keep the work going!
+
 ## Build Instructions
 
 ### Prerequisites
